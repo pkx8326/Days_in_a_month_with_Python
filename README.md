@@ -1,0 +1,2 @@
+# Days_in_a_month_with_Python
+This is a simple set of Python codes that will give the user the number of days in a month the user gives to the program.  For this program to work, the user will provide the year and the month, and the program will return the number of days in that month. The program can also determine if the given year is a leap year and provide a correct number of date for February.
